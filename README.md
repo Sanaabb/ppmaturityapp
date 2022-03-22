@@ -39,3 +39,6 @@ The basic idea is to empower people working with Power Platform to:
    that's available as part of the solution
 
 Contact your local Microsoft account representative for questions related to licensing as per your requirements. See also: [Licensing overview for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
+
+
+[install page](/install%20app.md)
