@@ -68,3 +68,7 @@ The procedure to install the Maturity Assessment App is described in the followi
  - [Option 2: Install the app using Microsoft Dataverse.](/Option2%3A%20Install%20with%20Microsoft%20Dataverse.md)
  
 To know more about the difference between these 2 environments: [Dataverse for Teams vs. Dataverse](https://docs.microsoft.com/en-us/powerapps/teams/data-platform-compare).
+
+## Install Power BI report
+
+The procedure to install the report is described in the following section : [Install Power BI Report].
