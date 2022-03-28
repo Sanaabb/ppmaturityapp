@@ -36,11 +36,31 @@ The basic idea is to empower people working with Power Platform to:
 
 ## Licensing requirements
 
- - Power Apps per User plan or Power Apps per App plan 
- - Power BI Pro license or Power BI Premium, if you'll be using the Power BI dashboard
-   that's available as part of the solution
+  •	Either:
+      o	Microsoft Teams through an M365 subscription (excluding EDU A1) with Dataverse for Teams enabled.
+      OR
+      o	Power Apps per User plan or Power Apps per App plan.
+
+
+  •	Power BI Premium or Power BI Pro license, if you'll be using the Power BI dashboard that's available as part of the solution
 
 Contact your local Microsoft account representative for questions related to licensing as per your requirements. See also: [Licensing overview for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
 
+## Download the solution package
+
+The solution package is available for download in this repository.
+It contains a compressed file including:
+  •	2 apps:
+        o	**Power Apps Assessment Tool**: a canvas app to help you evaluate your organization’s maturity around Power Platform adoption.
+        o	**Power Platform Assessment Admin Console**: a model-driven app to help manage the data tables of the assessment including the disciplines, checklists, scores, roles…
+  •	9 Tables: where data is stored including Admin, AllupScore, Automation, BusinessValue, FusionTeams, Nurture, Roles, Strategy and Support
+  •	DataImportTool : an environment variable used to automate data load.
+
+## Install the application
+
+The procedure to install the Maturity Assessment App is described in the following sections. 2 options are possible according to the type of licenses you have: 
+  •	[Option 1: Install the app using Microsoft Dataverse for Teams environment.] (/Option1: )
+  •	[Option 2: Install the app using Microsoft Dataverse.]
+To know more about the difference between these 2 environments: Dataverse for Teams vs. Dataverse.
 
 [install page](/install%20app.md)
