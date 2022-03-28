@@ -102,3 +102,9 @@
 	
 	![image](https://user-images.githubusercontent.com/44406188/160500752-7f54a7a7-a6dd-4f44-87eb-5bc4b37e8139.png)
 
+## Explore all documentation
+
+- [Introduction to the Power Platform Assessment App](/README.md)
+- [Option 1: Install the app using Microsoft Dataverse for Teams environment.](/Option1%3A%20Install%20with%20Dataverse%20for%20Teams.md)
+- [Option 2: Install the app using Microsoft Dataverse.](/Option2%3A%20Install%20with%20Microsoft%20Dataverse.md)
+- [Deploy the Maturity Assessment Report.](/Deploy%20the%20Assessment%20Report%20(Power%20BI).md)
