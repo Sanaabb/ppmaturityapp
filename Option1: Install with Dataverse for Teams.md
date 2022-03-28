@@ -2,7 +2,7 @@
 
 This article provides step-by-step instructions for deploying the Maturity Assessment App solution.
 
-Estimated time to complete these steps: 30 minutes.
+Estimated time to complete these steps: 20 minutes.
 
 ## Prerequisites
 To perform the installation:
