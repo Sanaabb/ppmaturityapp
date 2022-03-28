@@ -1,4 +1,4 @@
-# Deploy Power BI Report
+# Deploy the Maturity Assessment Report (Power BI)
 
 ## Prerequisites
 
