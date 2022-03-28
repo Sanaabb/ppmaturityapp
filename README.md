@@ -38,7 +38,9 @@ The basic idea is to empower people working with Power Platform to:
 Either : 
  
  - Microsoft Teams through an M365 subscription (excluding EDU A1) with [Dataverse for Teams](https://docs.microsoft.com/en-us/powerapps/teams/overview-data-platform) enabled.
+
 OR
+
  - Power Apps per User plan or Power Apps per App plan.
  
  AND
