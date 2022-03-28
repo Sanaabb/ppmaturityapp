@@ -71,4 +71,4 @@ To know more about the difference between these 2 environments: [Dataverse for T
 
 ## Install Power BI report
 
-The procedure to install the report is described in the following section : [Install Power BI Report].
+The procedure to install the report is described in the following section : [Install Power BI Report](/Install%20Power%20BI%20report.md).
