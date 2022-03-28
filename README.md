@@ -55,8 +55,9 @@ It contains a compressed file including:
 
  - 2 apps:
  
-		 - **Power Apps Assessment Tool**: a canvas app to help you evaluate your organization’s maturity around Power Platform adoption.
-		 - **Power Platform Assessment Admin Console**: a model-driven app to help manage the data tables of the assessment including the disciplines, checklists, scores, roles…
+  - **Power Apps Assessment Tool**: a canvas app to help you evaluate your organization’s maturity around Power Platform adoption.
+  
+  - **Power Platform Assessment Admin Console**: a model-driven app to help manage the data tables of the assessment including the disciplines, checklists, scores, roles…
 		 
  - 9 Tables: where data is stored including Admin, AllupScore, Automation, BusinessValue, FusionTeams, Nurture, Roles, Strategy and Support.
  
