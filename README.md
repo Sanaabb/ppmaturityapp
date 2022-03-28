@@ -16,7 +16,6 @@ For more information about [Maturity Model for Microsoft 365 - Introduction | Mi
 
 Working with some of our top customers, we've identified consistent themes, patterns, practices, and behaviors to support the progress of organizations implementing a complete digital transformation with Power Platform. The result of this work is the [Power CAT adoption maturity model](https://powerapps.microsoft.com/en-us/blog/power-cat-adoption-maturity-model-repeatable-patterns-for-successful-power-platform-adoption/).
 
-Add team name/NB about ownership
 
 # Power Platform Maturity Framework App
 
@@ -55,9 +54,9 @@ It contains a compressed file including:
 
  - 2 apps:
  
-  - **Power Apps Assessment Tool**: a canvas app to help you evaluate your organization’s maturity around Power Platform adoption.
+  	- **Power Apps Assessment Tool**: a canvas app to help you evaluate your organization’s maturity around Power Platform adoption.
   
-  - **Power Platform Assessment Admin Console**: a model-driven app to help manage the data tables of the assessment including the disciplines, checklists, scores, roles…
+  	- **Power Platform Assessment Admin Console**: a model-driven app to help manage the data tables of the assessment including the disciplines, checklists, scores, roles…
 		 
  - 9 Tables: where data is stored including Admin, AllupScore, Automation, BusinessValue, FusionTeams, Nurture, Roles, Strategy and Support.
  
