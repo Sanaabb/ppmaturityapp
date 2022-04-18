@@ -49,8 +49,14 @@ OR
 Contact your local Microsoft account representative for questions related to licensing as per your requirements. See also: [Licensing overview for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
 
 ## Download the solution package
+
+![solution package](https://user-images.githubusercontent.com/44406188/163870719-f53f64db-36db-4461-b594-50b3ab10b437.png)
+
+
 The solution package is available for download in this repository.
-It contains a compressed file including:
+It contains :
+
+1. **MaturityAssessmentTool_1_0_0_X_managed.zip** : a compressed file including:
 
  - 2 apps:
  
@@ -63,6 +69,13 @@ It contains a compressed file including:
  - DataImportTool : an environment variable used to automate data load.
  
 ![image](https://user-images.githubusercontent.com/44406188/160388527-0b09347d-500c-4ed7-8583-f7e7dc0c042a.png)
+
+
+2. **Maturity Assessment Report.pbit** : the Power BI template to use within the app.
+
+
+![download github](https://user-images.githubusercontent.com/44406188/163870894-b6710cec-d62e-4f91-a188-0157a5a03650.png)
+
 
 
 ## Install the application
