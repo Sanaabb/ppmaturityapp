@@ -108,3 +108,4 @@
 - [Option 1: Install the app using Microsoft Dataverse for Teams environment.](/Option1%3A%20Install%20with%20Dataverse%20for%20Teams.md)
 - [Option 2: Install the app using Microsoft Dataverse.](/Option2%3A%20Install%20with%20Microsoft%20Dataverse.md)
 - [Deploy the Maturity Assessment Report.](/Deploy%20the%20Assessment%20Report%20(Power%20BI).md)
+
