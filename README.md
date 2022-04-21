@@ -30,7 +30,7 @@ The basic idea is to empower people working with Power Platform to:
 -   Improve their capabilities in a tangible way by taking them to the next level
 -   Compare the evolution of the organization based on quantified surveys.
 
-**Project Team** : Amélie Lair, Pierre Bourdial, Nicolas Kirrmann, Mehdi El Yassir, Frédéric Penalver.
+**Project Team** : Amélie Lair, Sanaa Bahou, Pierre Bourdial, Nicolas Kirrmann, Mehdi El Yassir, Frédéric Penalver.
 
 ![app tool](https://user-images.githubusercontent.com/44406188/153434477-89b91899-450d-419b-a9cb-eae8df8c04b4.png)
 
