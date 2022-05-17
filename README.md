@@ -91,5 +91,5 @@ To know more about the difference between these 2 environments: [Dataverse for T
 
 ## Deploy the Maturity Assessment Report (Power BI)
 
-The procedure to install the report is described in the following section : [Deploy the Maturity Assessment Report](/Install%20Power%20BI%20report.md).
+The procedure to install the report is described in the following section : [Deploy the Maturity Assessment Report]([/Install%20Power%20BI%20report.md](https://github.com/Sanaabb/ppmaturityapp/blob/main/Deploy%20the%20Assessment%20Report%20(Power%20BI).md)).
 
