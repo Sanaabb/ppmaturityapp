@@ -16,6 +16,7 @@ For more information about [Maturity Model for Microsoft 365 - Introduction | Mi
 
 Working with some of our top customers, we've identified consistent themes, patterns, practices, and behaviors to support the progress of organizations implementing a complete digital transformation with Power Platform. The result of this work is the [Power CAT adoption maturity model](https://powerapps.microsoft.com/en-us/blog/power-cat-adoption-maturity-model-repeatable-patterns-for-successful-power-platform-adoption/).
 
+![analyze](https://user-images.githubusercontent.com/44406188/169338604-69c34520-8074-4d5c-a0cc-6ee4534ace97.gif)
 
 # Power Platform Maturity Assessment App
 
