@@ -17,4 +17,6 @@
 {"LabelId":"allAssessments" ,"Language": "fr-fr", "LabelText": "Toutes les évaluations
 "},
 {"LabelId":"dataImport" ,"Language": "fr-fr", "LabelText": "Importation de données"},
+{"LabelId":"welcome" ,"Language": "en-en", "LabelText": "welcome"},
+{"LabelId":"welcome" ,"Language": "fr-fr", "LabelText": "Bienvenue "},
 {"LabelId":"analytics" ,"Language": "fr-fr", "LabelText": "Analytics"}]
