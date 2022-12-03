@@ -8,8 +8,13 @@
 <li>Decide what level they want to reach for each dimension and within what timeframe</li>
 <li>Improve their capabilities in a tangible way by taking them to the next level</li>
 <li>Compare the evolution of the organization based on quantified surveys.</li>
-</ul>"},
+</ul>'},
 {"LabelId":"maturityFramework" ,"Language": "en-en", "LabelText": "Maturity Framework"},
 {"LabelId":"allAssessments" ,"Language": "en-en", "LabelText": "All assessments"},
 {"LabelId":"dataImport" ,"Language": "en-en", "LabelText": "Data Import"},
-{"LabelId":"analytics" ,"Language": "en-en", "LabelText": "Analytics"}]
+{"LabelId":"analytics" ,"Language": "en-en", "LabelText": "Analytics"},
+{"LabelId":"maturityFramework" ,"Language": "fr-fr", "LabelText": "Cadre de maturité"},
+{"LabelId":"allAssessments" ,"Language": "fr-fr", "LabelText": 'Toutes les évaluations
+"},
+{"LabelId":"dataImport" ,"Language": "fr-fr", "LabelText": "Importation de données"},
+{"LabelId":"analytics" ,"Language": "fr-fr", "LabelText": "Analytics"}]
