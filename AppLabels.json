@@ -17,6 +17,27 @@
 {"LabelId":"allAssessments" ,"Language": "fr-fr", "LabelText": "Toutes les évaluations
 "},
 {"LabelId":"dataImport" ,"Language": "fr-fr", "LabelText": "Import de données"},
-{"LabelId":"welcome" ,"Language": "en-en", "LabelText": "welcome"},
+{"LabelId":"welcome" ,"Language": "en-en", "LabelText": "Welcome"},
 {"LabelId":"welcome" ,"Language": "fr-fr", "LabelText": "Bienvenue "},
-{"LabelId":"analytics" ,"Language": "fr-fr", "LabelText": "Analytics"}]
+{"LabelId":"analytics" ,"Language": "fr-fr", "LabelText": "Analytics"},
+{"LabelId":"currentAssessment" ,"Language": "en-en", "LabelText": "Current Assessment"},
+{"LabelId":"currentAssessment" ,"Language": "fr-fr", "LabelText": "Évaluation actuelle
+"},
+{"LabelId":"addNewAssessmentTitile" ,"Language": "en-en", "LabelText": "Add new assessments with milestones and track your objectives"},
+{"LabelId":"addNewAssessmentTitile" ,"Language": "fr-fr", "LabelText": "Ajoutez de nouvelles évaluations avec des jalons et suivez vos objectifs
+"},
+{"LabelId":"home" ,"Language": "en-en", "LabelText": "Home"},
+{"LabelId":"home" ,"Language": "fr-fr", "LabelText": "Accueil"},
+{"LabelId":"startAssessment" ,"Language": "en-en", "LabelText": "Start Assessment"},
+{"LabelId":"startAssessment" ,"Language": "fr-fr", "LabelText": "Démarrer l’évaluation"},
+{"LabelId":"submit" ,"Language": "en-en", "LabelText": "Submit"},
+{"LabelId":"submit" ,"Language": "fr-fr", "LabelText": "Valider"},
+{"LabelId":"name" ,"Language": "en-en", "LabelText": "Name"},
+{"LabelId":"name" ,"Language": "fr-fr", "LabelText": "Nom"},
+{"LabelId":"organization" ,"Language": "en-en", "LabelText": "Organization"},
+{"LabelId":"organization" ,"Language": "fr-fr", "LabelText": "Organisation"},
+{"LabelId":"csm" ,"Language": "en-en", "LabelText": "CSM"},
+{"LabelId":"csm" ,"Language": "fr-fr", "LabelText": "CSM"},
+{"LabelId":"model" ,"Language": "en-en", "LabelText": "Model"},
+{"LabelId":"model" ,"Language": "fr-fr", "LabelText": "Modèle
+"}]
