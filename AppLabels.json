@@ -40,4 +40,47 @@
 {"LabelId":"csm" ,"Language": "fr-fr", "LabelText": "CSM"},
 {"LabelId":"model" ,"Language": "en-en", "LabelText": "Model"},
 {"LabelId":"model" ,"Language": "fr-fr", "LabelText": "Modèle
-"}]
+"},
+{"LabelId":"newAssessment" ,"Language": "en-en", "LabelText": "New Assessment"},
+{"LabelId":"newAssessment" ,"Language": "fr-fr", "LabelText": "Nouvelle évaluation"},
+{"LabelId":"level" ,"Language": "en-en", "LabelText": "Level"},
+{"LabelId":"level" ,"Language": "fr-fr", "LabelText": "Niveau"},
+{"LabelId":"reco" ,"Language": "en-en", "LabelText": "Recommandations"},
+{"LabelId":"reco" ,"Language": "fr-fr", "LabelText": "Recommandations"},
+{"LabelId":"checklistLevel" ,"Language": "en-en", "LabelText": "Checklist"},
+{"LabelId":"checklistLevel" ,"Language": "fr-fr", "LabelText": "de l'évaluation"},
+{"LabelId":"objectives" ,"Language": "en-en", "LabelText": "Assessment Objectives"},
+{"LabelId":"objectives" ,"Language": "fr-fr", "LabelText": "Objectifs de l’évaluation
+"},
+{"LabelId":"overviewPPMA" ,"Language": "en-en", "LabelText": "Overview of the Power Platform Maturity Framework"},
+{"LabelId":"overviewPPMA" ,"Language": "fr-fr", "LabelText": "Vue d’ensemble du Power Platform Maturity Framework"},
+{"LabelId":"level100" ,"Language": "en-en", "LabelText": "Level 100 - Initial"},
+{"LabelId":"level100" ,"Language": "fr-fr", "LabelText": "Level 100 - Initial"},
+{"LabelId":"level200" ,"Language": "en-en", "LabelText": "Level 200 - Repeatable"},
+{"LabelId":"level200" ,"Language": "fr-fr", "LabelText": "Level 200 - Répétable"},
+{"LabelId":"level300" ,"Language": "en-en", "LabelText": "Level 300 - Defined"},
+{"LabelId":"level300" ,"Language": "fr-fr", "LabelText": "Level 300 - Défini"},
+{"LabelId":"level400" ,"Language": "en-en", "LabelText": "Level 400 - Capable"},
+{"LabelId":"level400" ,"Language": "fr-fr", "LabelText": "Level 400 - Capable"},
+{"LabelId":"level500" ,"Language": "en-en", "LabelText": "Level 500 - Leading"},
+{"LabelId":"level500" ,"Language": "fr-fr", "LabelText": "Level 500 - Efficace"},
+{"LabelId":"level100Description" ,"Language": "en-en", "LabelText": "he organization has pockets of success or experimentation with Power Platform, but without any visibility into organization-wide adoption and use. There is no overall strategy or governance approach, apps are largely in the Default environment and no DLP policies have been put in place. Apps are mostly used by a single team and supported by the makers. Apps primarily use Excel and SharePoint as their data sources. "},
+{"LabelId":"level200Description" ,"Language": "en-en", "LabelText": "The organization is taking what they’ve learned in the Initial stage to put structure around the deployment of Power Platform, often through controls implemented by a central IT team or other team focused on Power Platform. The CoE Starter Kit is deployed to provide tenant-wide visibility into the use of Power Platform and begin to identify, if not control, applications that are beginning to become broadly used in the organization. Environments are used as needed, but in an ad hoc manner. "},
+{"LabelId":"level300Description" ,"Language": "en-en", "LabelText": "The Defined organization is standardizing the repeatable practices that evolved in the Repeatable phase, for example, Environment and DLP requests are automated, solutions are used to move apps and flows between environments, and makers are starting to share common components. The organization is achieving measurable success with Power Platform to digitally transform and has a defined Power Platform Center of Excellence team."},
+{"LabelId":"level400Description" ,"Language": "en-en", "LabelText": "Power Platform capabilities are being used to transform the business broadly and used for enterprise critical apps and integrations. Platform Champions have established channels for sharing best practices, training new makers and conducting regular hackathons. Standard, branded app templates and components are available to all makers. Business Value assessments are carried out to measure and understand the impact of the Power Platform."},
+{"LabelId":"level500Description" ,"Language": "en-en", "LabelText": "The organization has proven the capabilities of Power Platform to rapidly transform mission critical capabilities. Standardized, automated processes and an established community of experts allow new digitization opportunities to be implemented rapidly, allowing the organization to recognize value quickly and begin to integrate more advanced capabilities, such as artificial intelligence (AI)."},
+{"LabelId":"level100Description" ,"Language": "fr-fr", "LabelText": "◽️ L’organisation a des poches de succès ou d’expérimentations avec Power Platform, mais sans visibilité sur l’adoption et l’utilisation à l’échelle de l’organisation.
+Pas de stratégie globale ou d’approche de gouvernance, les Apps sont en grande partie dans l’env. par défaut et aucune stratégie DLP en place. 
+◽️ Les Apps sont principalement utilisées par une seule équipe et prises en charge par les créateurs/makers. 
+◽️ Les Apps utilisent principalement Excel et SharePoint comme sources de données."},
+{"LabelId":"level200Description" ,"Language": "fr-fr", "LabelText": "◽️ L’organisation utilise ce qu’elle a appris au cours de la phase initiale pour structurer le déploiement de Power Platform, souvent par le biais de contrôles mis en œuvre par une équipe informatique centrale ou une autre équipe axée sur Power Platform. 
+◽️ Le kit de démarrage CoE est déployé pour fournir une visibilité à l’échelle du tenanr sur l’utilisation de Power Platform et commencer à identifier, sinon contrôler, les Apps qui commencent à être largement utilisées dans l’organisation. 
+◽️ Les environnements sont utilisés selon les besoins, mais de manière ad hoc. "},
+{"LabelId":"level300Description" ,"Language": "fr-fr", "LabelText": "◽️ L’organisation définie, standardise les pratiques reproductibles qui ont évolué au cours de la phase répétable, par exemple, les demandes d’environnement et DLP sont automatisées, les solutions sont utilisées pour déplacer les applications et les flux entre les environnements, et les créateurs commencent à partager des composants communs. 
+◽️ L’organisation obtient un succès mesurable avec Power Platform pour se transformer numériquement et dispose d’une équipe définie du centre d’excellence Power Platform. "},
+{"LabelId":"level400Description" ,"Language": "fr-fr", "LabelText": "◽️ Les fonctionnalités de Power Platform sont utilisées pour transformer l’entreprise à grande échelle et sont utilisées pour les applications et intégrations critiques de l’entreprise. 
+◽️ Les champions de la plate-forme ont établi des canaux pour partager les meilleures pratiques, former de nouveaux créateurs et organiser régulièrement des hackathons. 
+Des modèles et des composants d’Apps standard et respectant la charte de l’organisation sont disponibles pour tous les créateurs. 
+◽️ Des évaluations de la valeur business sont effectuées pour mesurer et comprendre l’impact de la Power Platform."},
+{"LabelId":"level500Description" ,"Language": "fr-fr", "LabelText": "◽️ L’organisation a prouvé les capacités de Power Platform à transformer rapidement les besoins critiques. 
+Des processus standardisés et automatisés et une communauté établie d’experts permettent de mettre en œuvre rapidement de nouvelles opportunités de numérisation, permettant à l’organisation de reconnaître rapidement la valeur et de commencer à intégrer des capacités plus avancées, telles que l’intelligence artificielle (IA). "}]
